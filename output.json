@@ -1,0 +1,1021 @@
+[
+  {
+    "data": {
+      "view": {
+        "id": "RXZlbnRWaWV3XzY2OTQyNw==",
+        "people": {
+          "nodes": [
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkzODQzMDU=",
+              "firstName": "Ed",
+              "lastName": "Zapanta",
+              "jobTitle": "Founder",
+              "organization": "HolospaceX",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/a30d672884314708a8764374980f0e3b.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": true,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODczMDA5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkzNTU5MzY=",
+              "firstName": "Martin",
+              "lastName": "Blok\u0161a",
+              "jobTitle": "Co-Founder & CEO",
+              "organization": "StreamBee",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/2e456bad27e142f1b37a4098869c1827.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": true,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNDUxMzky",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkyNDkyMjU=",
+              "firstName": "Kate",
+              "lastName": "Edwards",
+              "jobTitle": "CEO",
+              "organization": "Geogrify",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/ecab8bd8b33841ba94f57e4794255029.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl85ODQyNTA=",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkyNDQ0OTI=",
+              "firstName": "Tom",
+              "lastName": "Kosiec",
+              "jobTitle": "Video Game Consultant",
+              "organization": "Freelance",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/5dbb2684be62411caff0c436ca7d1388.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODcyMjA0",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkyMDExMDk=",
+              "firstName": "Sunny",
+              "lastName": "Yang",
+              "jobTitle": "President",
+              "organization": "BOSi Art Studios",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/c93e0a673d0c49bca4824a0e8c23d0ae.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xMDEzMjk1",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxOTY4NzA=",
+              "firstName": "Jamison",
+              "lastName": "Selby",
+              "jobTitle": "President",
+              "organization": "Ruby Play Network",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/98b57cdda73e428e83d1ccd7b02103de.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODE5NDMz",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxNTI1NzM=",
+              "firstName": "CHANDAVOINE",
+              "lastName": "Christelle",
+              "jobTitle": "Director, Sales & Manufacturing",
+              "organization": "Quantic Dream",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/b0a43e2fb4af47ffa22796d986ddcccf.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xMDE0ODgy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxMTY4NTE=",
+              "firstName": "Patricia",
+              "lastName": "Ballum",
+              "jobTitle": "Project Manager",
+              "organization": "Business France",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/4b956991e16b4afcb56639c8909898c4.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl81OTM0OTM=",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxMTUxMzY=",
+              "firstName": "Kory",
+              "lastName": "Henn",
+              "jobTitle": "Associate",
+              "organization": "Concrete Ventures",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/2951185b76ae4195a5068a814ac028e1.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMDc3Mjg0",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxMTU2NTM=",
+              "firstName": "Edgar",
+              "lastName": "Jesus",
+              "jobTitle": "Senior Game Designer",
+              "organization": "btf GmbH",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/eef140f6536b49bc8f2274ce2f81763d.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xMDA0NDM4",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxMTM3ODM=",
+              "firstName": "David",
+              "lastName": "Brulotte",
+              "jobTitle": "Delegate General",
+              "organization": "Quebec Governement in Los Angeles",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/761655718e3b43a0a8630c1acbbd2554.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMTQ0NzA4",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkxMDExNjY=",
+              "firstName": "Cipto",
+              "lastName": "Adiguno",
+              "jobTitle": "Chief Strategy Officer",
+              "organization": "Agate",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/721eb8c23c39492283d29288e463318d.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODczODcz",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkwNzAwMzM=",
+              "firstName": "Pablo",
+              "lastName": "Ariznabarreta",
+              "jobTitle": "Business Develpment Manager",
+              "organization": "Ark One Studios",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/d8282cd48fe54de4b40d067b9fa58682.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODk0ODEy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkwNDgyNzI=",
+              "firstName": "Jay",
+              "lastName": "Fernandes",
+              "jobTitle": "Director",
+              "organization": "Plastic Fern Studios",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/200c0146475148a9a9dba5309576b83c.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMDY5NDgw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkwNDYxNjc=",
+              "firstName": "Jaime",
+              "lastName": "Castilla",
+              "jobTitle": "CEO",
+              "organization": "ON3D",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/267a1be64d294f0584413de328ce27bb.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODk5MDgw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkwNDY5OTI=",
+              "firstName": "Johnny",
+              "lastName": "Thompson",
+              "jobTitle": "Developer/Content Creator",
+              "organization": "Turbo Makes Games",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/d277dd8e94df4805aff1988321b941ea.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODcxODE4",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjkwMTc0ODU=",
+              "firstName": "Tomoe",
+              "lastName": "Haga",
+              "jobTitle": "Founder & CEO",
+              "organization": "GozenGames",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/d3b69080d0d644e0b2f0aa93f8b5059a.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODcyODQ3",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3OTUwMjA=",
+              "firstName": "Trapper",
+              "lastName": "Markelz",
+              "jobTitle": "Co-founder / COO",
+              "organization": "Beamable",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/d6361ce3530f4e2aa3168e69dfa7ff48.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTUyOTk5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3NzQ5MTA=",
+              "firstName": "Mark",
+              "lastName": "Pascual",
+              "jobTitle": "Product Manager",
+              "organization": "Informa",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/120cdbab067842feb5ce6e44fcb36198.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNzM5NTMx",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3NTgzNzA=",
+              "firstName": "Barry",
+              "lastName": "Threw",
+              "jobTitle": "Mocapper",
+              "organization": "Qualisys",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/67109fd2e10544d080a8c9bd2ceaac0b.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMDg4MzA4",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3NTU3Mzk=",
+              "firstName": "Meredith",
+              "lastName": "Omori",
+              "jobTitle": "Senior Event Delivery Manager",
+              "organization": "Informa Tech",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/76454813683040b49a294a14eba23da8.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNzMwNDkw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3NTMyNjY=",
+              "firstName": "Russell",
+              "lastName": "Bacon",
+              "jobTitle": "VP of Sales",
+              "organization": "Informa",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/bdcffe2f083b4df299f9d656502ef619.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNzM1NDk5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3MzkwNzU=",
+              "firstName": "Alexander",
+              "lastName": "Gold",
+              "jobTitle": "Tech Designer",
+              "organization": "Retro Studios",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/4207989d937345839bad816e12b012c0.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODcxNDY5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3MzEyNDI=",
+              "firstName": "Bill",
+              "lastName": "Rehbock",
+              "jobTitle": "Chief Development Office",
+              "organization": "Curve Reality",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/2313d54ce2224f0ba310cb983f24ae8e.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTUwNzU4",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3MDcwNDk=",
+              "firstName": "Rosa",
+              "lastName": "Yee",
+              "jobTitle": "Procurement Manager, Venue & Hotels",
+              "organization": "Informa Tech",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/97471f251bf849a7b2e6dcb2b05e7112.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTE3NTUw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3MDc1MzQ=",
+              "firstName": "Hasnul Hadi",
+              "lastName": "Samsudin",
+              "jobTitle": "Head of Studio",
+              "organization": "PlayStation Studios Malaysia",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/e0e5875c9549474a978bf84cef0e8cd3.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yNTY2ODg5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk3MDQ5MzQ=",
+              "firstName": "Chris",
+              "lastName": "Cook",
+              "jobTitle": "Partner",
+              "organization": "The Amplifier Group",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/ed373451b8954b1eab083672c2bb387d.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yOTgyNTAw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2OTQyMDU=",
+              "firstName": "Erik",
+              "lastName": "Dewhurst",
+              "jobTitle": "Founder",
+              "organization": "Cassandra's Curse Studio",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/20e74ae6f03949ccae10a972fad4dce8.jpg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTAwMzQy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2OTM4OTY=",
+              "firstName": "Robert",
+              "lastName": "Chain",
+              "jobTitle": "Global Head of Strategic Accounts",
+              "organization": "Swapcard",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/9bb51f11040543a294fee40871f0f16a.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yODUyMTI5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2OTAxOTQ=",
+              "firstName": "Darijo",
+              "lastName": "Bosnjak",
+              "jobTitle": "Advisor",
+              "organization": "Quebec Governement in Silicon Valley",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/55bd8b3e87a4475e850d09eee68b3e0d.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMzg1NDQ1",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NzMxNzI=",
+              "firstName": "Jaya",
+              "lastName": "Venkataraman",
+              "jobTitle": "Sr. Director, Event Sales",
+              "organization": "Informa Tech",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/5cf12fb3de8c470198d311808ff4ae67.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNzk4MTI2",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NzExODY=",
+              "firstName": "Blake",
+              "lastName": "Merriam",
+              "jobTitle": "Founder",
+              "organization": "Game Designers Network India",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/e197e291c2d540cd9539fe0cd04870c7.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODk5MTgy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2Njk5NzU=",
+              "firstName": "Charles",
+              "lastName": "Bourgeois",
+              "jobTitle": "Head of Success",
+              "organization": "Swapcard",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/e7fb185e06414e638dab5ce8ee7a040a.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl80NjAwMDU=",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NjcyNzE=",
+              "firstName": "Rach\u00e9l",
+              "lastName": "Bazelais",
+              "jobTitle": "Technical Designer",
+              "organization": "Microsoft",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/43da588bf7724f20be140b053b082a8d.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMDA4MzYz",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NjQxNTQ=",
+              "firstName": "Cyril",
+              "lastName": "Deaconoff",
+              "jobTitle": "Composer/Sound Designer",
+              "organization": "The Programming Foundation",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/b958c2a5ef9e4b97aa48452b1252f701.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODk4MzY3",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NjM2ODk=",
+              "firstName": "Mohan Low",
+              "lastName": "Han Sen",
+              "jobTitle": "Director, Digital Content Development",
+              "organization": "Malaysia Digital Economy Corporation Sdn Bhd",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/749ca0875ec0436ab3b3161b60edc71a.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTI5Mzk2",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NTg2ODM=",
+              "firstName": "John",
+              "lastName": "Wie",
+              "jobTitle": "Content + Marketing Manager",
+              "organization": "Academy of Interactive Arts & Sciences",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/c2a6b944ea5a450d84cc9897b299dbef.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTU1NDAy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NTYzODk=",
+              "firstName": "Romain",
+              "lastName": "Belveze",
+              "jobTitle": "Business France DE-Sectoriel-TS",
+              "organization": "Business France",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/1a5d1c2691324b339a1f203039245aad.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xMDM4NjM=",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NTQwMjA=",
+              "firstName": "Claire",
+              "lastName": "Barilla",
+              "jobTitle": "Senior Producer",
+              "organization": "Secret Mode",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/4bb7eeb806244adfbcb3cac28af1ac0d.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTQ5ODEy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDU5ODk=",
+              "firstName": "Marcello",
+              "lastName": "Brescia",
+              "jobTitle": "Head of OTT & Edge Ecosystem",
+              "organization": "HGC Global Communications",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/8e1c4654eac04b34a863858d08905232.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTc3Nzg5",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDU2NjU=",
+              "firstName": "ELISA",
+              "lastName": "DI LORENZO",
+              "jobTitle": "CEO",
+              "organization": "UNTOLD GAMES SRL",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/718c361e47e04bd987f1f8e46f19be9b.jpg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl85NzY3MTU=",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDMzMjM=",
+              "firstName": "Bryan",
+              "lastName": "Mehr",
+              "jobTitle": "CCO",
+              "organization": "Sirenix",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/9748f6152edf4879a3bb5aff2fd59e2c.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODg3ODEw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDM4OTM=",
+              "firstName": "Katrine",
+              "lastName": "Chow",
+              "jobTitle": "Campaign Marketing Manager",
+              "organization": "The New Blank",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/806250c69fe0407bae9b38a7565916ca.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTYxODUy",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDM2NjI=",
+              "firstName": "Matt",
+              "lastName": "Levine",
+              "jobTitle": "Composer & App Developer",
+              "organization": "Uncle Vector's Audio Lab LLC",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/7a76c5382c38431e86de3f4cb5497da7.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODc0OTE1",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDA0ODc=",
+              "firstName": "Kam",
+              "lastName": "Punia",
+              "jobTitle": "CEO",
+              "organization": "Pixion Games",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/ac948a1a6e19433d99e248b55f235b78.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xODk3MjI4",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2NDA0MDY=",
+              "firstName": "Maxime",
+              "lastName": "Dumas",
+              "jobTitle": "Founder & CTO",
+              "organization": "PopcornFX",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/a5fac6cfdaf2617f3a456a1f453bb02b61d5e223.jpeg",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl81MTgwNTM=",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2Mzk5MTA=",
+              "firstName": "Borys",
+              "lastName": "Trienin",
+              "jobTitle": "Business Development Manager",
+              "organization": "remote control productions GmbH",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/8594545297314c4db3f82d9056943e76.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xOTUxMDc3",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2Mzk3ODM=",
+              "firstName": "Steve",
+              "lastName": "Cheong",
+              "jobTitle": "Producer",
+              "organization": "Pixelline Production",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/6d24f595e71f4b68a8ee193fb5b764f1.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8yMDA5OTk1",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2MzY1NDI=",
+              "firstName": "Zack",
+              "lastName": "Burnside",
+              "jobTitle": "Product Specialist",
+              "organization": "Informa",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/dd4deef319c34f65b010951bd67a6fcd.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNzMzMTEw",
+              "aggregation": null
+            },
+            {
+              "id": "RXZlbnRQZW9wbGVfMjk2MzMzNDI=",
+              "firstName": "Whitney",
+              "lastName": "O'Neill",
+              "jobTitle": "Head of Platform Development",
+              "organization": "Informa",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/fe58b38fc08e425bad79060556183c52.png",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo",
+                "hasReceivedRequest": false,
+                "hasSentRequest": false,
+                "isConnected": false,
+                "isUser": true,
+                "isSelf": false
+              },
+              "__typename": "Core_EventPerson",
+              "userId": "VXNlcl8xNzI3Mzk1",
+              "aggregation": null
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": true,
+            "endCursor": "WzEuODQ5NjA5NCwiUlhabGJuUlFaVzl3YkdWZk1qazJNek16TkRJPSJd",
+            "__typename": "Core_PageInfo"
+          },
+          "totalCount": 26910,
+          "__typename": "Core_EventPeopleConnection"
+        },
+        "__typename": "Core_EventPeopleListView"
+      }
+    }
+  }
+]

@@ -1,0 +1,334 @@
+[
+  {
+    "data": {
+      "person": {
+        "id": "RXZlbnRQZW9wbGVfMjkzMTY4MTA=",
+        "userId": "VXNlcl8xODY5MjA5Nw==",
+        "firstName": "Nicolas",
+        "lastName": "Abele",
+        "photoUrl": "https://cdn-api.swapcard.com/public/images/cbfa9dba0d8143739fd7bcb1a4533ebe.jpeg",
+        "jobTitle": "CEO",
+        "organization": "SONIX app",
+        "biography": "Co-founder of SONIX, the first voicechat for gamers playing competitive games and supporting Esports teams. World's lowest audio latency & first in-app marketplace for Gaming brands (publishers, Esports team, competition organiser)  to provide digital assets and skinned avatar to their fan-base",
+        "email": "nabele@sonixapp.com",
+        "websiteUrl": "www.sonixapp.com",
+        "hasPendingChanges": true,
+        "address": {
+          "street": "13 Ravine Street",
+          "zipCode": "02476-6415",
+          "place": null,
+          "country": "United States of America",
+          "city": "Arlington",
+          "state": "Massachusetts",
+          "__typename": "Core_Address"
+        },
+        "userInfo": {
+          "hasReceivedRequest": false,
+          "hasSentRequest": false,
+          "isConnected": true,
+          "isUser": true,
+          "isSelf": false,
+          "__typename": "Core_UserInfo",
+          "presenceStatus": "OFFLINE",
+          "pendingRequests": []
+        },
+        "type": null,
+        "socialNetworks": [
+          {
+            "profile": "nicolasabele",
+            "type": "LINKEDIN",
+            "__typename": "Core_SocialNetwork"
+          },
+          {
+            "profile": "sonixapp",
+            "type": "TWITTER",
+            "__typename": "Core_SocialNetwork"
+          }
+        ],
+        "mobilePhone": null,
+        "landlinePhone": {
+          "formattedNumber": "+1 339-368-9246",
+          "__typename": "Core_PhoneNumber"
+        },
+        "withEvent": {
+          "pastMeetings": [],
+          "__typename": "Core_EventPersonWithEvent",
+          "fields": [
+            {
+              "section": null,
+              "__typename": "Core_SelectField",
+              "selectOptions": [
+                {
+                  "value": "myself-only",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Myself only"
+                },
+                {
+                  "value": "2-to-5",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "2 to 5"
+                },
+                {
+                  "value": "6-to-10",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "6 to 10"
+                },
+                {
+                  "value": "11-to-20",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "11 to 20"
+                },
+                {
+                  "value": "21-to-50",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "21 to 50"
+                },
+                {
+                  "value": "51-to-100",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "51 to 100"
+                },
+                {
+                  "value": "101-to-250",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "101 to 250"
+                },
+                {
+                  "value": "251-to-500",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "251 to 500"
+                },
+                {
+                  "value": "over-500",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Over 500"
+                }
+              ],
+              "id": "RmllbGREZWZpbml0aW9uXzY1NjkxNA==",
+              "name": "Company Size",
+              "placeholder": null,
+              "isEditable": true,
+              "isVisible": true,
+              "value": {
+                "id": "RmllbGRWYWx1ZV8yMTczNzA2Mw==",
+                "value": "11-to-20",
+                "text": "11 to 20",
+                "__typename": "Core_SelectFieldValue"
+              }
+            },
+            {
+              "section": null,
+              "__typename": "Core_MultipleSelectField",
+              "selectOptions": [
+                {
+                  "value": "artificial-intelligence",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Artificial Intelligence"
+                },
+                {
+                  "value": "blockchain-web3-metaverse",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Blockchain/Web3/Metaverse"
+                },
+                {
+                  "value": "browser-games",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Browser Games"
+                },
+                {
+                  "value": "cloud",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Cloud"
+                },
+                {
+                  "value": "console",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Console"
+                },
+                {
+                  "value": "education",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Education"
+                },
+                {
+                  "value": "esports",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "eSports"
+                },
+                {
+                  "value": "funding-vc",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Funding/VC"
+                },
+                {
+                  "value": "game-monetization",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Game Monetization"
+                },
+                {
+                  "value": "marketing-pr",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Marketing/PR"
+                },
+                {
+                  "value": "media-influencer",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Media/Influencer"
+                },
+                {
+                  "value": "mobile",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Mobile"
+                },
+                {
+                  "value": "outsourcing-localization-qa",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Outsourcing/Localization/QA"
+                },
+                {
+                  "value": "pc-mac",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "PC/Mac"
+                },
+                {
+                  "value": "publisher-distributor",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Publisher/Distributor"
+                },
+                {
+                  "value": "recruitment",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Recruitment"
+                },
+                {
+                  "value": "student",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Student"
+                },
+                {
+                  "value": "tools-middleware",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Tools/Middleware"
+                },
+                {
+                  "value": "training-education",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Training/Education"
+                },
+                {
+                  "value": "virtual-augmented-reality",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Virtual/Augmented Reality"
+                }
+              ],
+              "id": "RmllbGREZWZpbml0aW9uXzY1NjkxNQ==",
+              "name": "Company Focus",
+              "placeholder": null,
+              "isEditable": true,
+              "isVisible": true,
+              "maxChoices": null,
+              "values": [
+                {
+                  "id": "RmllbGRWYWx1ZV8yMTc2NDkyNQ==",
+                  "value": "artificial-intelligence",
+                  "text": "Artificial Intelligence",
+                  "__typename": "Core_SelectFieldValue"
+                },
+                {
+                  "id": "RmllbGRWYWx1ZV8yMTc2NDkyOA==",
+                  "value": "esports",
+                  "text": "eSports",
+                  "__typename": "Core_SelectFieldValue"
+                },
+                {
+                  "id": "RmllbGRWYWx1ZV8yMTUyNzU0NA==",
+                  "value": "tools-middleware",
+                  "text": "Tools/Middleware",
+                  "__typename": "Core_SelectFieldValue"
+                }
+              ]
+            },
+            {
+              "section": null,
+              "__typename": "Core_MultipleSelectField",
+              "selectOptions": [
+                {
+                  "value": "audio",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Audio"
+                },
+                {
+                  "value": "business-and-marketing-pr",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Business & Marketing/PR"
+                },
+                {
+                  "value": "game-design-ie-ux-level-design-narrative",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Game Design (ie: UX, Level Design, Narrative)"
+                },
+                {
+                  "value": "production-team-management",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Production/Team Management"
+                },
+                {
+                  "value": "programming-engineering",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Programming/Engineering"
+                },
+                {
+                  "value": "student",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Student"
+                },
+                {
+                  "value": "visual-arts-ie-vfx-technical-art-animation-art-direction",
+                  "__typename": "Core_SelectOptionsValue",
+                  "text": "Visual Arts (ie: VFX, Technical Art, Animation, Art Direction)"
+                }
+              ],
+              "id": "RmllbGREZWZpbml0aW9uXzY1NjkxNg==",
+              "name": "Job Focus",
+              "placeholder": null,
+              "isEditable": true,
+              "isVisible": true,
+              "maxChoices": null,
+              "values": [
+                {
+                  "id": "RmllbGRWYWx1ZV8yMTUyODIwNg==",
+                  "value": "business-and-marketing-pr",
+                  "text": "Business & Marketing/PR",
+                  "__typename": "Core_SelectFieldValue"
+                }
+              ]
+            }
+          ],
+          "memberOnExhibitors": [],
+          "speakerOnPlannings": [],
+          "attendeeOnPlannings": [],
+          "meetingInvitationsCount": 0
+        },
+        "__typename": "Core_EventPerson",
+        "connectionInfo": {
+          "commonConnections": [
+            {
+              "id": "VXNlcl8xODc3NjQzOQ==",
+              "__typename": "Core_ConnectionUser",
+              "photoUrl": "https://cdn-api.swapcard.com/public/images/7bfdb365fc01478e9217945aac7b7c1a.jpeg",
+              "firstName": "Denny",
+              "lastName": "Nguyen",
+              "jobTitle": "CEO",
+              "organization": "HAYWORK GLOBAL",
+              "userInfo": {
+                "presenceStatus": "OFFLINE",
+                "__typename": "Core_UserInfo"
+              }
+            }
+          ],
+          "__typename": "Core_ConnectionInfo"
+        }
+      }
+    }
+  }
+]

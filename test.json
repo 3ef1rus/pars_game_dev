@@ -1,0 +1,73 @@
+[
+    {
+      "data": {
+        "view": {
+          "id": "RXZlbnRWaWV3XzY2OTQyNw==",
+          "people": {
+            "nodes": [
+              {
+                "id": "RXZlbnRQZW9wbGVfMjkzODQzMDU=",
+                "firstName": "Ed",
+                "lastName": "Zapanta",
+                "jobTitle": "Founder",
+                "organization": "HolospaceX",
+                "photoUrl": "https://cdn-api.swapcard.com/public/images/a30d672884314708a8764374980f0e3b.png",
+                "userInfo": {
+                  "presenceStatus": "OFFLINE",
+                  "__typename": "Core_UserInfo",
+                  "hasReceivedRequest": false,
+                  "hasSentRequest": false,
+                  "isConnected": true,
+                  "isUser": true,
+                  "isSelf": false
+                },
+                "__typename": "Core_EventPerson",
+                "userId": "VXNlcl8xODczMDA5",
+                "aggregation": null
+              },
+              {
+                "id": "RXZlbnRQZW9wbGVfMjkzNTU5MzY=",
+                "firstName": "Martin",
+                "lastName": "Blok\u0161a",
+                "jobTitle": "Co-Founder & CEO",
+                "organization": "StreamBee",
+                "photoUrl": "https://cdn-api.swapcard.com/public/images/2e456bad27e142f1b37a4098869c1827.png",
+                "userInfo": {
+                  "presenceStatus": "OFFLINE",
+                  "__typename": "Core_UserInfo",
+                  "hasReceivedRequest": false,
+                  "hasSentRequest": true,
+                  "isConnected": false,
+                  "isUser": true,
+                  "isSelf": false
+                },
+                "__typename": "Core_EventPerson",
+                "userId": "VXNlcl8xNDUxMzky",
+                "aggregation": null
+              },
+              {
+                "id": "RXZlbnRQZW9wbGVfMjkyNDkyMjU=",
+                "firstName": "Kate",
+                "lastName": "Edwards",
+                "jobTitle": "CEO",
+                "organization": "Geogrify",
+                "photoUrl": "https://cdn-api.swapcard.com/public/images/ecab8bd8b33841ba94f57e4794255029.jpeg",
+                "userInfo": {
+                  "presenceStatus": "OFFLINE",
+                  "__typename": "Core_UserInfo",
+                  "hasReceivedRequest": false,
+                  "hasSentRequest": false,
+                  "isConnected": false,
+                  "isUser": true,
+                  "isSelf": false
+                },
+                "__typename": "Core_EventPerson",
+                "userId": "VXNlcl85ODQyNTA=",
+                "aggregation": null
+              }
+            ]
+        }
+        }
+    }
+    }
+]
